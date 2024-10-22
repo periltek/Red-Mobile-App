@@ -12,8 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5652680f00a3cb40baedc1e031e9d11, type: 3}
   m_Name: Swift Silvermine Festival
   m_EditorClassIdentifier: 
-  what: 
+  eventTitle: Swift Silvermine Fest
   who: 
-  where: 
+  where: Campton Ky
   why: 
-  date: 000000000000000000000000
+  date: e80700000900000001000000
+  hypostaticLink: 
+  brochureImgLinks:
+  - https://yt3.ggpht.com/s-etfUjiclZS-1x548uoZ1DOg6EYC3kxPCw4xIv271lvb0C4U7ZDa5nqduvobMVHHH8RS6k3xSw=s88-c-k-c0x00ffffff-no-rj
+  - https://yt3.ggpht.com/s-etfUjiclZS-1x548uoZ1DOg6EYC3kxPCw4xIv271lvb0C4U7ZDa5nqduvobMVHHH8RS6k3xSw=s88-c-k-c0x00ffffff-no-rj
+  brochurePages: []
+  images: []
